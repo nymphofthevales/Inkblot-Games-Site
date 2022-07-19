@@ -1,3 +1,4 @@
+![Company logo](/public/media/logo.png)
 # Inkblot-Games-Site
 A business website for a video game company. Made in Svelte with <a href="https://github.com/Tom-Siegel/multi-page-svelte">Tom Siegel's multi-page-svelte</a>.<br>
 ```src``` is where the whole show happens.<br> 
