@@ -5,7 +5,7 @@
 <style>
     #site-nav {
         width: 100%;
-        height: 300px;
+        height: 20vh;
         position: sticky;
         left: 0; 
         top: 0;
@@ -14,6 +14,7 @@
         justify-content: space-between;
         background-color: #222222;
         clip-path: polygon(0 0, 0 100%, 100% calc(100% - 50px), 100% 0);
+        z-index: 10;
     }
     nav {
         width: 50%;

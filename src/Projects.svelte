@@ -1,3 +1,7 @@
+<svelte:head>
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+</svelte:head>
+
 <script>
   export let name;
   import SiteNav from "./Components/SiteNav.svelte"
