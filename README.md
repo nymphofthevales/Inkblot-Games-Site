@@ -1,6 +1,6 @@
 ![Company logo](/public/media/logo_small.png)
 # Inkblot-Games-Site
-A business website for a video game company. Made in Svelte with [Tom Siegel's multi-page-svelte]("https://github.com/Tom-Siegel/multi-page-svelte").
+A business website for a video game company. Made in Svelte with Tom Siegel's <a href="https://github.com/Tom-Siegel/multi-page-svelte">multi-page-svelte</a>.
 ## Notes to Collaborators:
 - ```src``` is where the whole show happens.
 - ```public``` is where the project compiles to (don't edit there unless you're adding assets to ```media```; your changes will be overwritten on next compile if you do).
