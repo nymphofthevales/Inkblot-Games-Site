@@ -17,7 +17,7 @@
 <style>
     section {
         padding: 100px 150px 100px 150px;
-        background-color: #222222;
+        background-color: #202020;
         color: white;
     }
 </style>

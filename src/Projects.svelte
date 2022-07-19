@@ -9,7 +9,7 @@
 </script>
 
 <main>
-  <SiteNav/>
+  <SiteNav name={name}/>
   <PageHeader name={name}/>
 </main>
 
